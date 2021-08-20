@@ -1,14 +1,14 @@
-# Training-Project
-This is my first repository
+# My Repo for latest projects at INSAID
 
-- Point 1
-- Point 2
+## Here is the list of all projects
 
+- [Finance](https://github.com/riteshgemini/Training-Project/tree/main/finance-project "Finance")
+- Accounts
+- Banking
+- Energy
 
-___
-
-```
-
-print('hello')
-
-```
+|  Finance Project| ![Finance](https://raw.githubusercontent.com/riteshgemini/Training-Project/main/Images/Car.jpg "Finance")  |
+| -- | -- |
+|   | Accounts Project |
+| Banking Project |   |
+|   | Energy Project |
