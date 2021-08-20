@@ -7,8 +7,8 @@ This is my first repository
 
 ___
 
-'''
+```
 
 print('hello')
 
-'''
+```
